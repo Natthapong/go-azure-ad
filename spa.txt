@@ -1,2 +1,0 @@
-client_id=6eda1bda-5b7b-441e-a2f4-aaabf97979ef
-tenant_id=d5dae8f1-1c17-4194-a860-109a54486ff6
