@@ -1,3 +1,0 @@
-secret=oS.8Q~nQlQMC1q2ZZjtqbRlpdK4hbjCN8QUIqbdA
-client_id=ad23e229-072b-4227-9fe2-ef302140192d
-tenant_id=d5dae8f1-1c17-4194-a860-109a54486ff6
